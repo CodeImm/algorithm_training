@@ -1,0 +1,8 @@
+{
+  "name": "yandex contest",
+  "version": "0.0.1",
+  "author": "Kolesnikov D. A.",
+  "scripts": {
+    "start": "node ./J/index.js"
+  }
+}

@@ -1,0 +1,7 @@
+Ivanov:
+paper 17
+marker 3
+envelope 5
+Petrov:
+pens 5
+envelope 20
